@@ -13,4 +13,7 @@ https://data.seoul.go.kr/
 
 ## day_2
 
+### example ans
 https://drive.google.com/open?id=18RQTpmYctCiys4M1cY-tkEEHvb4VxAfk
+
+
