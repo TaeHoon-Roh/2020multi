@@ -20,3 +20,12 @@ https://drive.google.com/open?id=18RQTpmYctCiys4M1cY-tkEEHvb4VxAfk
 ## day_3
 
 https://drive.google.com/open?id=1qvYNZn-EwPPbYzprMTv1CnxPf9bcM1SA
+
+
+## day_4
+
+### ppt
+https://drive.google.com/open?id=1UOZngeHVTbCHJNwYpdWdhNPOgzgjaQKV
+
+### naver_api
+https://drive.google.com/open?id=1KY1ZoOuq4rPmYUTEQYc_kyG3XSEB_KwU
